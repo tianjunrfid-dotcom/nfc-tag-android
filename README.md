@@ -31,30 +31,27 @@ if __name__ == "__main__":
     print("Read result:", read_data.decode('utf-8'))
 
 LINK:
-https://www.disposablewristbands.com/
-https://www.disposablewristbands.com/wristbands/ID-wristbands-vir-renners.html
-https://www.disposablewristbands.com/wristbands/glow-polsbande-vir-party.html
-https://www.disposablewristbands.com/wristbands/vrymaak-feestpolsbande.html
-https://www.disposablewristbands.com/wristbands/hoe-om-n-fees-handelsband-te-verwyder.html
-https://www.disposablewristbands.com/wristbands/handdoos-ontwerpideeë.html
-https://www.disposablewristbands.com/wristbands/leverder-van-RFID-wristbands.html
-https://www.disposablewristbands.com/wristbands/Hoe-om-n-gebeurtenis-polsband-af-te-haal.html
-https://www.disposablewristbands.com/wristbands/Engeland-polsketjies.html
-https://www.tjnfctag.com/best-rfid-blocking-cards/
-https://www.tjnfctag.com/product-category/rfid-card/
-https://www.tjnfctag.com/hilton-hotel-key-card/
-https://www.tjnfctag.com/why-is-rfid-controversial/
-https://www.tjnfctag.com/product/custom-rfid-nfc-card-nxp-icodeslix-l/
-https://www.tjnfctag.com/best-rfid-blocking-card/
-https://www.tjnfctag.com/product/custom-vingcard-compatible-cards-10/
-https://www.tjnfctag.com/
-https://www.tjnfctag.com/custom-rfid-wooden-card/
-https://www.tjnfctag.com/fr/how-to-copy-rfid-card-to-android/
-https://www.tjnfctag.com/how-to-copy-rfid-card-to-iphone/
-https://www.tjnfctag.com/nfc-tags-singapore/
-https://www.tjnfctag.com/product-category/hotel-key-card/
+https://www.disposablewristbands.com/<br>
+https://www.disposablewristbands.com/wristbands/ID-wristbands-vir-renners.html<br>
+https://www.disposablewristbands.com/wristbands/glow-polsbande-vir-party.html<br>
+https://www.disposablewristbands.com/wristbands/vrymaak-feestpolsbande.html<br>
+https://www.disposablewristbands.com/wristbands/hoe-om-n-fees-handelsband-te-verwyder.html<br>
+https://www.disposablewristbands.com/wristbands/handdoos-ontwerpideeë.html<br>
+https://www.disposablewristbands.com/wristbands/leverder-van-RFID-wristbands.html<br>
+https://www.disposablewristbands.com/wristbands/Hoe-om-n-gebeurtenis-polsband-af-te-haal.html<br>
+https://www.disposablewristbands.com/wristbands/Engeland-polsketjies.html<br>
+https://www.tjnfctag.com/best-rfid-blocking-cards/<br>
+https://www.tjnfctag.com/product-category/rfid-card/<br>
+https://www.tjnfctag.com/hilton-hotel-key-card/<br>
+https://www.tjnfctag.com/why-is-rfid-controversial/<br>
+https://www.tjnfctag.com/product/custom-rfid-nfc-card-nxp-icodeslix-l/<br>
+https://www.tjnfctag.com/best-rfid-blocking-card/<br>
+https://www.tjnfctag.com/product/custom-vingcard-compatible-cards-10/<br>
+https://www.tjnfctag.com/<br>
+https://www.tjnfctag.com/custom-rfid-wooden-card/<br>
+https://www.tjnfctag.com/fr/how-to-copy-rfid-card-to-android/<br>
+https://www.tjnfctag.com/how-to-copy-rfid-card-to-iphone/<br>
+https://www.tjnfctag.com/nfc-tags-singapore/<br>
+https://www.tjnfctag.com/product-category/hotel-key-card/<br>
 https://www.tjnfctag.com/waterproof-nfc-tag-for-outdoor-conditions/
-<a target="_blank" href="https://www.tjnfctag.com/how-to-copy-rfid-card-to-iphone/">how to copy rfid card to iphone</a>
-<a target="_blank" href="https://www.tjnfctag.com/nfc-tags-singapore/">nfc tags singapore</a>
-<a target="_blank" href="https://www.tjnfctag.com/product-category/hotel-key-card/">hotel key card</a>
-<a target="_blank" href="https://www.tjnfctag.com/waterproof-nfc-tag-for-outdoor-conditions/">waterproof nfc tag for outdoor conditions</a>
+
