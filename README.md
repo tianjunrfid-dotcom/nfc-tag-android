@@ -31,25 +31,29 @@ if __name__ == "__main__":
     print("Read result:", read_data.decode('utf-8'))
 
 LINK:
-<a target="_blank" href="https://www.disposablewristbands.com/">disposable wristbands</a>
-<a target="_blank" href="https://www.disposablewristbands.com/wristbands/ID-wristbands-vir-renners.html">ID wristbands vir-renners</a>
-<a target="_blank" href="https://www.disposablewristbands.com/wristbands/glow-polsbande-vir-party.html">glow polsbande vir party</a>
-<a target="_blank" href="https://www.disposablewristbands.com/wristbands/vrymaak-feestpolsbande.html">vrymaak feestpolsbande</a>
-<a target="_blank" href="https://www.disposablewristbands.com/wristbands/hoe-om-n-fees-handelsband-te-verwyder.html">hoe om n fees handelsband te verwyder</a>
-<a target="_blank" href="https://www.disposablewristbands.com/wristbands/handdoos-ontwerpideeë.html">handdoos ontwerpideeë</a>
-<a target="_blank" href="https://www.disposablewristbands.com/wristbands/leverder-van-RFID-wristbands.html">leverder van RFID wristbands</a>
-<a target="_blank" href="https://www.disposablewristbands.com/wristbands/Hoe-om-n-gebeurtenis-polsband-af-te-haal.html">Hoe om n gebeurtenis polsband af te haal</a>
-<a target="_blank" href="https://www.disposablewristbands.com/wristbands/Engeland-polsketjies.html">wristbands/Engeland polsketjies</a>
-<a target="_blank" href="https://www.tjnfctag.com/best-rfid-blocking-cards/">best rfid blocking cards</a>
-<a target="_blank" href="https://www.tjnfctag.com/product-category/rfid-card/">rfid card</a>
-<a target="_blank" href="https://www.tjnfctag.com/hilton-hotel-key-card/">hilton hotel key-card</a>
-<a target="_blank" href="https://www.tjnfctag.com/why-is-rfid-controversial/">why is rfid controversial</a>
-<a target="_blank" href="https://www.tjnfctag.com/product/custom-rfid-nfc-card-nxp-icodeslix-l/">custom rfid nfc card nxp icodeslix</a>
-<a target="_blank" href="https://www.tjnfctag.com/best-rfid-blocking-card/">best rfid blocking card</a>
-<a target="_blank" href="https://www.tjnfctag.com/product/custom-vingcard-compatible-cards-10/">custom vingcard compatible cards</a>
-<a target="_blank" href="https://www.tjnfctag.com/">nfc</a>
-<a target="_blank" href="https://www.tjnfctag.com/custom-rfid-wooden-card/">custom rfid wooden card</a>
-<a target="_blank" href="https://www.tjnfctag.com/fr/how-to-copy-rfid-card-to-android/">how to copy rfid card to android</a>
+https://www.disposablewristbands.com/
+https://www.disposablewristbands.com/wristbands/ID-wristbands-vir-renners.html
+https://www.disposablewristbands.com/wristbands/glow-polsbande-vir-party.html
+https://www.disposablewristbands.com/wristbands/vrymaak-feestpolsbande.html
+https://www.disposablewristbands.com/wristbands/hoe-om-n-fees-handelsband-te-verwyder.html
+https://www.disposablewristbands.com/wristbands/handdoos-ontwerpideeë.html
+https://www.disposablewristbands.com/wristbands/leverder-van-RFID-wristbands.html
+https://www.disposablewristbands.com/wristbands/Hoe-om-n-gebeurtenis-polsband-af-te-haal.html
+https://www.disposablewristbands.com/wristbands/Engeland-polsketjies.html
+https://www.tjnfctag.com/best-rfid-blocking-cards/
+https://www.tjnfctag.com/product-category/rfid-card/
+https://www.tjnfctag.com/hilton-hotel-key-card/
+https://www.tjnfctag.com/why-is-rfid-controversial/
+https://www.tjnfctag.com/product/custom-rfid-nfc-card-nxp-icodeslix-l/
+https://www.tjnfctag.com/best-rfid-blocking-card/
+https://www.tjnfctag.com/product/custom-vingcard-compatible-cards-10/
+https://www.tjnfctag.com/
+https://www.tjnfctag.com/custom-rfid-wooden-card/
+https://www.tjnfctag.com/fr/how-to-copy-rfid-card-to-android/
+https://www.tjnfctag.com/how-to-copy-rfid-card-to-iphone/
+https://www.tjnfctag.com/nfc-tags-singapore/
+https://www.tjnfctag.com/product-category/hotel-key-card/
+https://www.tjnfctag.com/waterproof-nfc-tag-for-outdoor-conditions/
 <a target="_blank" href="https://www.tjnfctag.com/how-to-copy-rfid-card-to-iphone/">how to copy rfid card to iphone</a>
 <a target="_blank" href="https://www.tjnfctag.com/nfc-tags-singapore/">nfc tags singapore</a>
 <a target="_blank" href="https://www.tjnfctag.com/product-category/hotel-key-card/">hotel key card</a>
